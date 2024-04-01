@@ -3,22 +3,17 @@
 - 👀 I’m interested in ... creativity, all things computer science, and weather forecasting
 - 🌱 I’m currently learning ... Fundamentals of Computer Science before entering a B.S. Computer Science with a minor in Atmospheric Science
 - 📫 How to reach me ... jasminecampos338@gmail.com; https://www.linkedin.com/in/jasminecampos23/
-- Hello. I am a 31 year old student, mother, and a proud Texas Native. I grew up in the generation that played "Snake" on a Nokia brick phone, then watched billionaires enter space. The amount of experience this generational advantage has instilled in me has pushed me to be a worldly woman with interests in all things tech.
+Hello, I'm a 31-year-old student, mother, and proud Texas native. I hail from the generation that honed its gaming skills on "Snake" using a Nokia brick phone, and later witnessed the spectacle of billionaires venturing into space. The wealth of experiences ingrained in me by this generational advantage has propelled me to become a well-rounded individual with a keen interest in all things tech.
 
-My passion: Meteorology
+My professional journey began in sales and residential property management, where I navigated the intricacies of business strategy to thrive in a fiercely competitive real estate market. My aptitude for driving revenue and educating others on effective methodologies propelled me to successfully complete, master, and graduate from the Business Intelligence Analytics program offered by Tripleten—an award-winning bootcamp renowned for its tech-focused curriculum. My latest proficiencies include SQL, Tableau, and Power BI. Currently, I am actively seeking full-time employment, externships, and opportunities to further my education while showcasing my artistic and analytical talents.
 
-My dream job: Weather Anchor
+As I immerse myself in the tech industry, I seek collaboration with like-minded individuals—artistic minds, passionate hearts, and open-minded professionals—who are committed to making a data-driven difference in companies, regardless of their size. Armed with my knowledge and proficient sales skills, I am poised to make impactful business decisions that leave a lasting impression.
 
-My brain: IBM ;)
+Amidst my professional growth, I remain dedicated to my academic pursuits at Houston Community College, where I am an active member and scholar of the National Honor Society—an exclusive organization recognizing students for their outstanding academic achievements and leadership qualities. My sights are set on entering the B.S. Computer Science program at the University of Houston in the Spring of 2026.
 
-My professional background is in sales and residential property management. In this field of work, I witnessed the ins and outs of business strategy to increase financial gain in a highly competitive real estate market. My knack for generating revenue, and educating others on my methods in this field, led me to successfully complete, master, and graduate from the Business Intelligence Analytics program by Tripleten, an award winning bootcamp for all things tech. My newest proefficencies are in SQL, Tableau, and Power BI. I am currently seeking full time employment, externships, and opportunities that will further my education and showcase my artistic and analytical talents.
+I hope to leave you inspired and motivated to pursue your own path to success.
 
-As I embark on my deep dive into the tech industry, I look to collaborate with artistic minds, passionate hearts, and open minded professionals, willing to make a data-driven difference in companies big or small. I intend to use my knowledge and proefficient sales skills to earn my place in the industry to make business decisions that create a lasting impact. 
-In the midst of all this professional growth, I focus my brainpower on academics at Houston Community College. I am a current member and scholar of the National Honor Society, an invitation only organization for students recognized to have great academic achievement and leadership power. I am determined to enter the B.S Computer Science program at University of Houston in the Spring of 2026.
-
-I hope you leave here inspired and motivated to achieve success.
-
-"If you want to go fast, go alone. If you want to go far, go together"
+Remember, "If you want to go fast, go alone. If you want to go far, go together."
 
 <!---
 jasminerc23/jasminerc23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
