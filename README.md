@@ -3,6 +3,7 @@
 - 👀 I’m interested in ... creativity, all things computer science, and weather forecasting
 - 🌱 I’m currently learning ... Fundamentals of Computer Science before entering a B.S. Computer Science with a minor in Atmospheric Science
 - 📫 How to reach me ... jasminecampos338@gmail.com; https://www.linkedin.com/in/jasminecampos23/
+  
 Hello, I'm a 31-year-old student, mother, and proud Texas native. I hail from the generation that honed its gaming skills on "Snake" using a Nokia brick phone, and later witnessed the spectacle of billionaires venturing into space. The wealth of experiences ingrained in me by this generational advantage has propelled me to become a well-rounded individual with a keen interest in all things tech.
 
 My professional journey began in sales and residential property management, where I navigated the intricacies of business strategy to thrive in a fiercely competitive real estate market. My aptitude for driving revenue and educating others on effective methodologies propelled me to successfully complete, master, and graduate from the Business Intelligence Analytics program offered by Tripleten—an award-winning bootcamp renowned for its tech-focused curriculum. My latest proficiencies include SQL, Tableau, and Power BI. Currently, I am actively seeking full-time employment, externships, and opportunities to further my education while showcasing my artistic and analytical talents.
